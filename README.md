@@ -1,4 +1,4 @@
 # omzambare-demo
 This is my first repository
 <br>
-authar = Om Zambare
+authar = Om Zambare(tial)
